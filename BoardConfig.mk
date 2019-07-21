@@ -42,3 +42,5 @@ TARGET_KERNEL_CONFIG := a70q_lineage_defconfig
 # platform
 TARGET_BOARD_PLATFORM := sm6150
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno612
+
+TARGET_RECOVERY_VARIANT := twrp
