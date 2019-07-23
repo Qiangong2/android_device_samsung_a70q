@@ -11,4 +11,3 @@ $(call inherit-product-if-exists, vendor/samsung/a70q/a70q-vendor.mk)
 TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
 
-
